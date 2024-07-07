@@ -3,6 +3,7 @@
 ## Introduction
 
 This repository contains a clustering algorithm designed for spatial Regression Discontinuity (RD) analysis. The algorithm clusters cities that are geographically similar into the same cluster to create a control group for estimating the policy effect. The clustering is based on a threshold distance that determines the connectivity between cities, forming a graph structure where clusters are defined.
+For an annotated full code of the algorithm, please check the Graph-Theory-Clustering-Algorithm.md file.
 
 ## Clustering Algorithm Definition
 
