@@ -17,4 +17,4 @@ The clustering algorithm operates based on the following rules:
 
 ## Output
 
-The final output of the algorithm is a table that shows the distribution of segment sizes and the average within-cluster distance for various threshold distances. The average within-cluster distance is measured in kilometers (km) and is provided in parentheses, similar to Table A.4 in the [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4455034).
+The final output of the algorithm is a table that shows the distribution of segment sizes and the average within-cluster distance for various threshold distances. The average within-cluster distance is measured in kilometers (km) and is provided in parentheses. You may find it as Table A.4 in the [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4455034).
